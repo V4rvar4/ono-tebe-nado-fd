@@ -1,1 +1,1 @@
-https://github.com/V4rvar4/ono-tebe-nado
+https://github.com/V4rvar4/ono-tebe-nado-fd
