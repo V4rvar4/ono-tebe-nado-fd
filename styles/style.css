@@ -278,7 +278,7 @@ article {
 .footer {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
-  padding: 1px 50px;
+  padding: 1px 50px 82px;
   justify-content: center;
   justify-items: center;
 }
